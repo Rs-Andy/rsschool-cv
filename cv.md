@@ -18,7 +18,7 @@ Russian (Native speaker)
 English (B1, [according to efset.org](https://www.efset.org/ru/quick-check/ "https://www.efset.org/ru/quick-check/"))
 
 ## Contact information:
-|  |  |
+| Option| Data |
 | :------| -----------:|
 |__Email__   | andy.rs.school@gmail.com |
 |__Discord__ | Rs.Andy |
